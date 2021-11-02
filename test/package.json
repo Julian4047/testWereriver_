@@ -1,0 +1,25 @@
+{
+  "name": "wereriver",
+  "version": "1.0.0",
+  "description": "nodeJsTOmySql",
+  "main": "test.js",
+  "dependencies": {
+    "my": "^0.3.3",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian4047/wereriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian4047/wereriver/issues"
+  },
+  "homepage": "https://github.com/Julian4047/wereriver#readme"
+}
